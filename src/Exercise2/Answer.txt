@@ -1,0 +1,2 @@
+No se puede, cada programa necesita un punto de entrada main único,
+ya que si hay diferentes habría una sobrecarga de metodos main y no habría sentido.
